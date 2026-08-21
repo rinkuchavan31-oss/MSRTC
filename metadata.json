@@ -1,0 +1,6 @@
+{
+  "name": "MSRTC NextGen",
+  "description": "Maharashtra's Smart Bus Reservation & Travel Assistant PWA with real-time tracking, offline QR e-tickets, seat mapping, ST-Mitra AI voice assistant, and conductor portal.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
