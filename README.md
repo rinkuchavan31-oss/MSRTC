@@ -99,3 +99,5 @@ cd backend && npm run test:api
 # or from root:
 npm run test:api
 ```
+
+<!-- Vercel deployment: frontend build via vercel.json -->
